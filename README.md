@@ -1,6 +1,6 @@
 # vue-shopping-cart
 
-> A Vue.js project
+> this is a simple project for vue2.0
 
 ## Build Setup
 
